@@ -7,6 +7,8 @@ directly into a connected Google Calendar.
 
 The agent mimics how a real leasing assistant would talk: it answers naturally, gathers lead info, and proposes available tour times based on a live calendar.
 
+> 📞 Get in touch if you'd like to hear it live in action — I can send you the number to call and try the AI yourself.
+
 ---
 
 ## 🔧 What It Can Do
