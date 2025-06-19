@@ -1,0 +1,8 @@
+Flask
+twilio
+python-dotenv
+
+# Optional if running full version
+# openai
+# google-api-python-client
+# dateparser
