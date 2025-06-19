@@ -1,4 +1,4 @@
-# 🤖🤖 AI Voice Leasing Agent (Demo) 🤖🤖
+# 🤖🤖 Calgary Apartments AI Voice Leasing Agent (Demo) 🤖🤖
 
 This is a voice-based AI leasing agent I built as a 4th-year Computer Science student.
 
